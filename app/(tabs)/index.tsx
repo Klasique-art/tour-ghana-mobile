@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import { WebView } from 'react-native-webview';
 import { SafeAreaView } from 'react-native-safe-area-context';
-const WEB_APP_URL = 'https://cafaai.com';
+const WEB_APP_URL = 'https://tourghana.com';
 
 const App = (): React.JSX.Element => {
     const webViewRef = useRef<WebView>(null);
